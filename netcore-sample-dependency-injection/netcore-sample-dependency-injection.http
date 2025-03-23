@@ -1,0 +1,6 @@
+@netcore_sample_dependency_injection_HostAddress = http://localhost:5218
+
+GET {{netcore_sample_dependency_injection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
